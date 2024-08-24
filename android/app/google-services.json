@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335151329506",
+    "project_id": "e-codes-app",
+    "storage_bucket": "e-codes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335151329506:android:b377cf9d185c04e28baebb",
+        "android_client_info": {
+          "package_name": "com.example.ekodlariapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-hrPTDcG-MOQezXjFPDKei78YyRDK54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

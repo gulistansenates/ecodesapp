@@ -1,5 +1,7 @@
 # ekodlariapp
 
+[![E Codes App](https://img.youtube.com/vi/bH0eB7HT_KU/0.jpg)](https://www.youtube.com/watch?v=bH0eB7HT_KU)
+
 A new Flutter project.
 
 ## Getting Started
